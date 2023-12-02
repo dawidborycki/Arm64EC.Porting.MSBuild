@@ -1,5 +1,3 @@
-#pragma once
-
 #include "Vectors.h"
 
 int* generateRamp(int startValue, int len) {
